@@ -1,0 +1,66 @@
+#main {
+  height: 200%;
+  width: 100%;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+#header {
+  text-align: center;
+  padding: 5px;
+}
+
+.container button {
+  background-color: black;
+  color: white;
+  padding: 10px;
+  border-radius: 30px;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.container button:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.container a {
+  color: white;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+.container {
+  margin: auto;
+  margin-bottom: 20px;
+  padding: 20px;
+  width: 70%;
+  max-height: 500px;
+  font-size: 20px;
+}
+
+.container p {
+  font-size: 20px;
+}
+
+.container p strong {
+  font-size: 20px;
+}
+
+.container strong {
+  font-size: 20px;
+}
+
+.container p strong::before {
+  content: "*";
+}
+
+.container::first-letter {
+  margin-left: 30px;
+}
+
+.button {
+  text-align: center;
+  padding-bottom: 30px;
+}
