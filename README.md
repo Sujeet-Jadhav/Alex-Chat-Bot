@@ -1,4 +1,4 @@
-# Gemini API Clone
+# Alex Chat Bot
 
 This project is a clone of the Gemini cryptocurrency exchange interface, utilizing the Gemini API for data retrieval and trading functionalities.
 
@@ -9,6 +9,7 @@ The Gemini API Clone project aims to replicate the core features of the Gemini p
 ## Technologies Used
 
 - React.js
+- Node
 - Gemini API
 
 ## Setup
